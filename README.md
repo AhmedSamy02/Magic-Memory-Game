@@ -79,4 +79,4 @@ Your app should now be running on [http://localhost:3000](http://localhost:3000)
 
 ## 🤝 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/memory-game/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/AhmedSamy02/Magic-Memory-Game/issues).
