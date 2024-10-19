@@ -5,9 +5,10 @@ A fun and interactive memory game built entirely with **React**. This game tests
 ![Magic Memory](https://github.com/user-attachments/assets/16134508-c75b-43f0-bd32-bd5e80cae8e9)
 
 ## 🎥 Demo Video
+
 Check out the live demo of the game below:
 
-https://github.com/user-attachments/assets/18e1c9f3-a57f-4667-9a38-cf5e70dbf194
+<https://github.com/user-attachments/assets/18e1c9f3-a57f-4667-9a38-cf5e70dbf194>
 
 ## 🚀 Features
 
@@ -35,18 +36,25 @@ https://github.com/user-attachments/assets/18e1c9f3-a57f-4667-9a38-cf5e70dbf194
 Follow these steps to run the game locally:
 
 1. Clone this repository:
+
     ```bash
     git clone https://github.com/AhmedSamy02/Magic-Memory-Game/
     ```
+
 2. Navigate into the project directory:
+
     ```bash
     cd magic-memory
     ```
+
 3. Install the dependencies:
+
     ```bash
     npm install
     ```
+
 4. Start the development server:
+
     ```bash
     npm start
     ```
